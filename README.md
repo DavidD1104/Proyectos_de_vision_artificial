@@ -1,4 +1,4 @@
-# Proyectos_de_vision_artificial
+# Computer vision proyects
 
 Bienvenido/a a este repositorio dedicado a **proyectos de Visión Artificial**.  
 Aquí encontrarás ejemplos prácticos, experimentos y aplicaciones reales que cubren desde **Visión por Computador** o **Machine Learning clásico** hasta **Deep Learning**, **Procesamiento de Lenguaje Natural (NLP)**,  y **Procesamiento de imágenes**.
