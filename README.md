@@ -5,18 +5,6 @@ Aquí encontrarás ejemplos prácticos, experimentos y aplicaciones reales que c
 
 ---
 
-## 📚 Contenido del repositorio
-| Carpeta | Descripción |
-|----------|--------------|
-| `machine-learning/` | Modelos clásicos de ML: regresión, clasificación, clustering, etc. |
-| `deep-learning/` | Redes neuronales profundas con TensorFlow y PyTorch. |
-| `nlp/` | Procesamiento de lenguaje natural: análisis de texto, chatbots, embeddings, etc. |
-| `computer-vision/` | Proyectos de visión por computador: detección de objetos, clasificación de imágenes, etc. |
-| `reinforcement-learning/` | Ejemplos de aprendizaje por refuerzo. |
-<!-- | `utilities/` | Herramientas, scripts y notebooks de apoyo. | -->
-
----
-
 ## Tecnologías utilizadas
 
 - **Python 3.10+**
@@ -24,6 +12,7 @@ Aquí encontrarás ejemplos prácticos, experimentos y aplicaciones reales que c
 - **TensorFlow / PyTorch**
 - **Scikit-learn**
 - **NumPy**
+- **YOLO**
 
 ## 💡 Contribuciones
 
